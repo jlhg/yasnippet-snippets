@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: typedefstruct
+# key: typedefs
+# --
+typedef struct ${1:type} {
+    $0
+} ${2:alias};
