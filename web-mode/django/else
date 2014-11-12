@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: dj-else
+# key: djelse
+# --
+{% else %}
+  $0

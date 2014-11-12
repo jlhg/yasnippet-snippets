@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: dj-for
+# key: djfor
+# --
+{% for ${1:o} in ${2:some_list} %}
+  $0
+{% endfor %}

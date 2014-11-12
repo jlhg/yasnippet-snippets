@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dj-extends
+# key: djext
+# --
+{% extends "${1:base.html}" %}$0

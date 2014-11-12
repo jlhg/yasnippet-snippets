@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dj-csrf_token
+# key: djcsrf
+# --
+{% csrf_token %}$0

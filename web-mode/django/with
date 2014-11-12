@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dj-with
+# key: djwith
+# --
+{% with ${1:alpha=1 beta=2} %}$0{% endwith %}

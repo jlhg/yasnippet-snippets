@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dj-url
+# key: djurl
+# --
+{% url ${1:'some-url-name'} ${2:v1 v2} %}$0

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dj-blocktrans
+# key: djblocktrans
+# --
+{% blocktrans %}$0{% endblocktrans %}

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dj-comment
+# key: djc
+# --
+{% comment ${1:"Optional note"}%}$0{% endcomment %}

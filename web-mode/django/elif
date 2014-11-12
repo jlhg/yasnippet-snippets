@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: dj-elif
+# key: djelif
+# --
+{% elif $1 %}
+  $0

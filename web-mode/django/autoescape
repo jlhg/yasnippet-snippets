@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dj-autoescape
+# key: djauto
+# --
+{% autoescape %}$0{% endautoescape %}

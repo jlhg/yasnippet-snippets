@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dj-include
+# key: djinc
+# --
+{% include "${1:foo/bar.html}" %}$0

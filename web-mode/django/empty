@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: dj-forempty
+# key: djempty
+# --
+{% for ${1:athlete} in ${2:athlete_list} %}
+   $3
+{% empty %}
+   $0
+{% endfor %}

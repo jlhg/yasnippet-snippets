@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: dj-ifchanged
+# key: djifc
+# --
+{% ifchanged ${1:match.ballot_id} %}
+  $0
+{% endifchanged %}

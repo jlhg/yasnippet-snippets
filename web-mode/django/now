@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dj-now
+# key: djnow
+# --
+{% now ${1:"jS F Y H:i"} %}$0

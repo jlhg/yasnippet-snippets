@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: dj-ifnotequal
+# key: djifneq
+# --
+{% ifnotequal ${1:var} ${2:"value"} %}
+  $0
+{% endifnotequal %}

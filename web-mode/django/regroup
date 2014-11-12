@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dj-regroup
+# key: djreg
+# --
+{% regroup ${1:cities by country} as ${2:country_list} %}$0

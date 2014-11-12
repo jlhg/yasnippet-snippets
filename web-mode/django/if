@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: dj-if
+# key: djif
+# --
+{% if ${1:athlete_list} %}
+  $0
+{% endif %}

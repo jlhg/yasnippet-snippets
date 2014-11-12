@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: dj-ifequal
+# key: djifeq
+# --
+{% ifequal ${1:var} ${2:"value"} %}
+  $0
+{% endifequal %}

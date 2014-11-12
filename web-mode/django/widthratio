@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dj-widthratio
+# key: djwidth
+# --
+{% widthratio ${1:this_value} ${2:max_value} ${3:max_width} %}$0

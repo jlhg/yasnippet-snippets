@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dj-load
+# key: djload
+# --
+{% load ${1:somelibrary package.otherlibrary} %}$0

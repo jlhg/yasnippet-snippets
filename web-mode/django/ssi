@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dj-ssi
+# key: djssi
+# --
+{% ssi ${1:'/foo/bar.html'} %}$0

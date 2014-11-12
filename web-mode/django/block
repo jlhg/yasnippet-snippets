@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dj-block
+# key: djb
+# --
+{% block ${1:title} %}$0{% endblock %}

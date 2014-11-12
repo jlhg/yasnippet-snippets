@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: dj-spaceless
+# key: djspa
+# --
+{% spaceless %}
+  $0
+{% endspaceless %}

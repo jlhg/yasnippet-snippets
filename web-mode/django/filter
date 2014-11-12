@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dj-filter
+# key: djfilter
+# --
+{% filter ${1:force_escape|lower} %}$0{% endfilter %}
