@@ -1,0 +1,6 @@
+#name : do(&block)
+#group : general
+# --
+do
+  $0
+end
