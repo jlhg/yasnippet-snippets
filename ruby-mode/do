@@ -1,6 +1,6 @@
 #name : do &block
 #group : control structure
 # --
-do
+do ${1:|${2:arg}|}
   $0
 end
